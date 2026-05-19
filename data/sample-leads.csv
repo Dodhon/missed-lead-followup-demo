@@ -1,0 +1,7 @@
+lead_id,business_line,customer_name,source,request,estimate_value,status,age_hours,last_touch,owner,next_step,risk_reason,preferred_channel,probability
+L-1048,Prairie Home HVAC,Maya Chen,Website form,No-cool call for a two-story condo,860,Needs quote,31,"Auto-reply sent, no human follow-up",Sam,Send quote window and call before 2 PM,Quote request is older than one business day,Call,68
+L-1049,Northline Dental,Jordan Patel,Missed call,Asked about emergency crown repair,480,New,4,Voicemail transcribed,Nina,Text callback link and offer two slots,High-intent call has no booked appointment,SMS,82
+L-1050,Canal Street Auto Glass,Evan Brooks,Google Business Profile,Windshield replacement quote,390,Waiting reply,18,Quote texted yesterday afternoon,Alex,Send proof-of-insurance checklist,Quote sent without confirmation sequence,SMS,54
+L-1051,Ada Street Med Spa,Priya Shah,Instagram DM,Laser consultation and package pricing,720,Dormant,76,Manual reply drafted but not sent,Mia,Send consult reminder and limited booking window,Lead went quiet after pricing question,Email,35
+L-1052,Bridgeport Pet Grooming,Noah Williams,Website chat,Recurring grooming for two dogs,260,Booked,9,Appointment confirmed,Jess,Send prep instructions 24 hours before visit,Booked low risk,Email,92
+L-1053,Ravenswood Roofing,Camila Ortiz,Referral,Leak inspection after storm,1450,Needs quote,27,Estimator note added,Sam,Email inspection recap and schedule roof visit,High-value lead is waiting on estimate,Email,61

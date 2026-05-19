@@ -1,0 +1,6 @@
+rule_id,trigger,action,owner,deadline
+R-01,New missed call with no appointment,Send SMS callback link and create same-day call task,Front desk,15 minutes
+R-02,Quote request older than 24 hours,Escalate to estimator and draft quote-window message,Estimator,2 business hours
+R-03,Quote sent with no reply after 18 hours,Send proof/checklist follow-up and log response,Sales owner,Same day
+R-04,Lead dormant for more than 48 hours,Send reactivation message and mark as recovery opportunity,Sales owner,Next morning
+R-05,Appointment booked,Send prep instructions and remove from rescue queue,Operations,24 hours before visit
