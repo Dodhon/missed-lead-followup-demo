@@ -4,6 +4,10 @@ A truth-safe portfolio artifact for pitching small business automation work.
 
 This repo shows a working prototype for a "lead rescue" workflow: inbound requests are captured in one queue, scored for follow-up risk, assigned to an owner, and turned into draft email, SMS, or call tasks. The sample data is fictional and intentionally marked as demo data.
 
+## Live Demo
+
+https://dodhon.github.io/missed-lead-followup-demo/
+
 ## What Is Included
 
 - React + TypeScript dashboard for inspecting open leads, stale quotes, booked value, and follow-up drafts.
@@ -12,6 +16,7 @@ This repo shows a working prototype for a "lead rescue" workflow: inbound reques
 - System diagram in `docs/system-diagram.md`.
 - Walkthrough script in `docs/demo-script.md`.
 - Packaged service offer in `docs/package-offer.md`.
+- Deployment notes in `docs/deployment.md`.
 - Reusable proposal snippets in `proposals/upwork-proposals.md`.
 
 ## Screenshot
